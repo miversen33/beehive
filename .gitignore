@@ -1,0 +1,17 @@
+# IDE Specific stuff
+*.vscode*
+*pycharm.*
+
+# Excluding Compiled Python Stuffs
+*pycache*
+
+# Excluding logs directory
+*log/*
+
+# Exclude any temp directories
+*temp/*
+*tmp/*
+
+# Exclude environment file
+.env
+
